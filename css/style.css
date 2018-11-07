@@ -1927,13 +1927,14 @@ footer .image-divider.fixed-height {
 #invited {
   font-family: Pacifico, 'Noto Sans KR', cursive;
   font-size: 36px;
-  margin-top: 70px
+  margin-top: 80px
 }
 
 #banner-date {
   font-family: Oswald, 'Noto Sans KR', sans-serif;
   letter-spacing: 2px;
-  font-size: 18px
+  font-size: 18px;
+  margin-top: 10px
 }
 
 .his-her-name {
@@ -2485,13 +2486,13 @@ button.mfp-arrow, button.mfp-close {
 
   @media screen and (max-width:480px) {
     .banner-text.withlove {
-      margin-top: 70px
+      margin-top: 20px
     }
-
+/*
     #invited {
       display: none
     }
-
+*/
     #save-the-date {
       padding-right: 40px;
       margin-bottom: 0;
