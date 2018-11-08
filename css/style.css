@@ -2514,7 +2514,8 @@ button.mfp-arrow, button.mfp-close {
     }
 
     .section-title {
-      margin-bottom: 50px
+      margin-top: 40px;
+      margin-bottom: 30px
     }
 
     .title-excerpt {
